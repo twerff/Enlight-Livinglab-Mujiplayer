@@ -1,0 +1,5 @@
+date,time,event,sender,recipient,function,ID,duration,activity,CT,DimLevel,Number of Areas,Area1,Area2,Area3,Area4,Interaction ID
+30/03/17,09:41:26,MULI Pointer,192.168.1.62,Server,applyDrawing,,5228,,8000,65534,1,1,,,,
+30/03/17,11:56:13,MULI Pointer,192.168.1.62,Server,applyDrawing,,10209,,6824,44355,1,2,,,,
+30/03/17,11:56:18,MULI Pointer,192.168.1.62,Server,setActivity,,15225,0,,,1,2,,,,
+30/03/17,11:56:22,MULI Pointer,192.168.1.62,Server,applyDrawing,,3373,,2774,44355,1,2,,,,

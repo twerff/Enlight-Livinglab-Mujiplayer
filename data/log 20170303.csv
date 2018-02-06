@@ -1,0 +1,6 @@
+date,time,event,sender,recipient,function,ID,duration,activity,CT,DimLevel,Number of Areas,Area1,Area2,Area3,Area4,Interaction ID
+03/03/17,09:33:26,MULI Pointer,2,Server,setLight,,,,3355,37008,1,2,,,,
+03/03/17,09:33:31,MULI Pointer,2,Server,setLight,,,,3355,37008,1,2,,,,
+03/03/17,09:33:33,MULI Pointer,2,Server,setLight,,,,3355,37008,1,3,,,,
+03/03/17,09:33:35,MULI Pointer,2,Server,setLight,,,,3355,37008,1,1,,,,
+03/03/17,09:33:37,MULI Pointer,2,Server,setLight,,,,3355,37008,1,0,,,,

@@ -1,0 +1,27 @@
+date,time,event,sender,recipient,function,ID,duration,activity,CT,DimLevel,Number of Areas,Area1,Area2,Area3,Area4,Interaction ID
+06/10/16,08:50:08,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,3736,,4141,32772,4,0,1,3,2,2016106000
+06/10/16,08:50:08,MULI FloorPlan,192.168.1.62,Server,setActivity,0,4585,0,,,4,0,1,3,2,2016106001
+06/10/16,09:08:48,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,15052,,,,1,0,,,,2016106002
+06/10/16,09:08:51,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,1950,,,,1,0,,,,2016106002
+06/10/16,09:08:54,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,746,,,,1,0,,,,2016106002
+06/10/16,09:08:55,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,1031,,,,1,0,,,,2016106002
+06/10/16,09:09:06,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,6258,,7444,0,1,0,,,,2016106002
+06/10/16,09:09:07,MULI FloorPlan,192.168.1.62,Server,setActivity,0,7079,3,,,1,0,,,,2016106002
+06/10/16,09:09:08,MULI FloorPlan,192.168.1.62,Server,setActivity,0,744,3,,,1,0,,,,2016106002
+06/10/16,09:09:11,MULI FloorPlan,192.168.1.62,Server,setActivity,0,1936,1,,,1,0,,,,2016106002
+06/10/16,09:09:13,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,1108,,,,1,0,,,,2016106002
+06/10/16,09:09:14,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,682,,,,1,0,,,,2016106002
+06/10/16,09:09:20,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,5122,,5115,31587,1,0,,,,2016106002
+06/10/16,09:09:22,MULI FloorPlan,192.168.1.62,Server,setActivity,0,6504,0,,,1,0,,,,2016106002
+06/10/16,14:46:15,MULI FloorPlan,192.168.1.50,Server,removeDrawing,0,4606,,,,4,0,1,3,2,2016106003
+06/10/16,14:46:43,MULI FloorPlan,192.168.1.50,Server,removeDrawing,0,1852,,,,4,0,1,3,2,2016106004
+06/10/16,14:47:21,MULI FloorPlan,192.168.1.50,Server,applyDrawing,0,16240,,4825,31243,1,2,,,,2016106005
+06/10/16,14:47:23,MULI FloorPlan,192.168.1.50,Server,setActivity,0,18373,1,,,1,2,,,,2016106005
+06/10/16,14:47:45,MULI FloorPlan,192.168.1.50,Server,applyDrawing,0,2668,,1700,31243,1,2,,,,2016106006
+06/10/16,14:48:00,MULI FloorPlan,192.168.1.50,Server,setActivity,0,17756,1,,,1,2,,,,2016106006
+06/10/16,14:48:03,MULI FloorPlan,192.168.1.50,Server,applyDrawing,0,2128,,7618,31243,1,2,,,,2016106006
+06/10/16,14:48:08,MULI FloorPlan,192.168.1.50,Server,setActivity,0,7755,1,,,1,2,,,,2016106006
+06/10/16,14:49:56,MULI FloorPlan,192.168.1.50,Server,removeDrawing,0,863,,,,1,2,,,,2016106007
+06/10/16,14:52:08,MULI FloorPlan,192.168.1.62,Server,applyDrawing,91,4857,,4736,38168,1,0,,,,2016106008
+06/10/16,14:52:13,MULI FloorPlan,192.168.1.62,Server,setActivity,91,9871,0,,,1,0,,,,2016106009
+06/10/16,18:02:06,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,2892,,1700,0,1,0,,,,2016106010

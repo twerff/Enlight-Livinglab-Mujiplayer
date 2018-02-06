@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<participants>
+  <participant ID="0" IP="192.168.1.62" email="intelligentlightinginstitute@gmail.com">
+    <action date="12-09-16 16:25:04" function="applyDrawing"/>
+    <email date="12-09-16 17:31:07" subject="Please fill in this survey"/>
+    <action date="13-09-16 17:12:37" function="setActivity"/>
+    <action date="13-09-16 17:12:48" function="applyDrawing"/>
+    <action date="13-09-16 17:12:48" function="setActivity"/>
+    <action date="13-09-16 17:12:56" function="setActivity"/>
+    <action date="13-09-16 18:47:12" function="applyDrawing"/>
+    <action date="13-09-16 18:47:13" function="setActivity"/>
+    <action date="13-09-16 18:47:18" function="applyDrawing"/>
+    <action date="13-09-16 18:47:18" function="setActivity"/>
+    <action date="13-09-16 18:47:40" function="removeDrawing"/>
+    <action date="14-09-16 08:38:11" function="applyDrawing"/>
+    <action date="14-09-16 08:38:11" function="setActivity"/>
+    <action date="14-09-16 08:38:17" function="removeDrawing"/>
+    <action date="14-09-16 08:38:28" function="applyDrawing"/>
+    <action date="14-09-16 08:38:28" function="setActivity"/>
+    <action date="14-09-16 08:50:33" function="setActivity"/>
+    <action date="14-09-16 08:50:46" function="setActivity"/>
+    <action date="14-09-16 09:12:51" function="removeDrawing"/>
+    <action date="14-09-16 09:13:38" function="removeDrawing"/>
+    <action date="14-09-16 09:13:41" function="removeDrawing"/>
+    <action date="14-09-16 09:13:44" function="removeDrawing"/>
+    <action date="14-09-16 09:13:55" function="applyDrawing"/>
+    <action date="14-09-16 09:13:58" function="setActivity"/>
+    <action date="14-09-16 09:14:13" function="setActivity"/>
+    <action date="14-09-16 09:14:26" function="setActivity"/>
+    <action date="14-09-16 09:14:35" function="setActivity"/>
+    <action date="14-09-16 09:14:54" function="applyDrawing"/>
+    <action date="14-09-16 09:14:56" function="setActivity"/>
+    <action date="14-09-16 09:15:36" function="applyDrawing"/>
+    <action date="14-09-16 09:15:38" function="setActivity"/>
+    <action date="14-09-16 09:15:43" function="setActivity"/>
+    <action date="14-09-16 09:16:56" function="removeDrawing"/>
+    <action date="14-09-16 09:17:05" function="removeDrawing"/>
+    <action date="14-09-16 09:17:10" function="removeDrawing"/>
+    <action date="14-09-16 09:17:23" function="removeDrawing"/>
+    <action date="14-09-16 09:17:33" function="removeDrawing"/>
+    <action date="14-09-16 09:17:48" function="removeDrawing"/>
+    <action date="14-09-16 09:17:50" function="applyDrawing"/>
+    <action date="14-09-16 09:17:52" function="setActivity"/>
+    <action date="14-09-16 09:17:57" function="applyDrawing"/>
+    <action date="14-09-16 09:17:58" function="setActivity"/>
+    <action date="14-09-16 09:18:01" function="removeDrawing"/>
+    <action date="14-09-16 09:18:02" function="removeDrawing"/>
+    <action date="14-09-16 09:18:04" function="removeDrawing"/>
+    <action date="14-09-16 09:18:05" function="removeDrawing"/>
+    <action date="14-09-16 09:18:10" function="applyDrawing"/>
+    <action date="14-09-16 09:18:11" function="setActivity"/>
+    <action date="14-09-16 09:18:36" function="setActivity"/>
+    <action date="14-09-16 09:18:45" function="setActivity"/>
+    <action date="14-09-16 09:19:29" function="applyDrawing"/>
+    <action date="14-09-16 09:19:46" function="applyDrawing"/>
+    <action date="14-09-16 09:19:47" function="setActivity"/>
+    <action date="14-09-16 09:19:54" function="applyDrawing"/>
+    <action date="14-09-16 09:26:27" function="applyDrawing"/>
+    <action date="14-09-16 09:26:29" function="setActivity"/>
+    <action date="14-09-16 09:26:42" function="applyDrawing"/>
+    <action date="14-09-16 09:26:42" function="setActivity"/>
+    <action date="14-09-16 12:37:01" function="removeDrawing"/>
+    <action date="14-09-16 12:37:24" function="removeDrawing"/>
+    <action date="14-09-16 12:37:30" function="removeDrawing"/>
+    <action date="14-09-16 12:37:34" function="applyDrawing"/>
+    <action date="14-09-16 12:37:37" function="setActivity"/>
+    <action date="14-09-16 12:37:54" function="applyDrawing"/>
+    <action date="14-09-16 12:37:56" function="setActivity"/>
+    <action date="14-09-16 12:38:02" function="setActivity"/>
+    <action date="14-09-16 12:38:07" function="applyDrawing"/>
+    <action date="14-09-16 12:38:08" function="setActivity"/>
+    <action date="14-09-16 12:38:21" function="setActivity"/>
+    <action date="14-09-16 12:38:27" function="removeDrawing"/>
+    <action date="14-09-16 12:38:29" function="removeDrawing"/>
+    <action date="14-09-16 12:38:31" function="applyDrawing"/>
+    <action date="14-09-16 12:38:32" function="setActivity"/>
+    <action date="14-09-16 12:38:55" function="removeDrawing"/>
+    <action date="14-09-16 12:39:01" function="applyDrawing"/>
+    <action date="14-09-16 12:39:05" function="setActivity"/>
+    <action date="14-09-16 12:39:12" function="applyDrawing"/>
+    <action date="14-09-16 12:39:13" function="setActivity"/>
+    <action date="14-09-16 12:39:31" function="applyDrawing"/>
+    <action date="14-09-16 12:39:33" function="setActivity"/>
+    <email date="14-09-16 13:05:04" subject="Thank you for participating!"/>
+    <email date="14-09-16 13:05:35" subject="Thank you for participating!"/>
+    <email date="14-09-16 13:05:37" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:10:22" function="applyDrawing"/>
+    <action date="14-09-16 14:10:42" function="applyDrawing"/>
+    <action date="14-09-16 14:11:08" function="applyDrawing"/>
+    <action date="14-09-16 14:12:05" function="applyDrawing"/>
+    <action date="14-09-16 14:12:54" function="applyDrawing"/>
+    <action date="14-09-16 14:13:02" function="setActivity"/>
+    <action date="14-09-16 14:13:43" function="applyDrawing"/>
+    <action date="14-09-16 14:13:45" function="setActivity"/>
+    <action date="14-09-16 14:13:57" function="removeDrawing"/>
+    <action date="14-09-16 14:14:06" function="removeDrawing"/>
+    <action date="14-09-16 14:14:22" function="applyDrawing"/>
+    <action date="14-09-16 14:14:25" function="setActivity"/>
+    <action date="14-09-16 14:14:36" function="setActivity"/>
+    <action date="14-09-16 14:24:37" function="applyDrawing"/>
+    <action date="14-09-16 14:24:44" function="setActivity"/>
+    <action date="14-09-16 14:24:55" function="applyDrawing"/>
+    <action date="14-09-16 14:25:00" function="setActivity"/>
+    <action date="14-09-16 14:25:06" function="applyDrawing"/>
+    <action date="14-09-16 14:30:05" function="applyDrawing"/>
+    <action date="14-09-16 14:30:07" function="setActivity"/>
+    <action date="14-09-16 14:30:19" function="applyDrawing"/>
+    <action date="14-09-16 14:30:26" function="setActivity"/>
+    <action date="14-09-16 14:30:27" function="applyDrawing"/>
+    <action date="14-09-16 14:30:30" function="setActivity"/>
+    <action date="14-09-16 14:31:18" function="applyDrawing"/>
+    <action date="14-09-16 14:31:35" function="removeDrawing"/>
+    <action date="14-09-16 14:31:46" function="applyDrawing"/>
+    <action date="14-09-16 14:32:23" function="applyDrawing"/>
+    <action date="14-09-16 14:32:28" function="applyDrawing"/>
+    <action date="14-09-16 14:32:34" function="setActivity"/>
+    <action date="14-09-16 14:32:44" function="applyDrawing"/>
+    <action date="14-09-16 14:32:54" function="removeDrawing"/>
+    <action date="14-09-16 14:33:03" function="applyDrawing"/>
+    <action date="14-09-16 14:33:09" function="setActivity"/>
+    <action date="14-09-16 14:33:12" function="applyDrawing"/>
+    <action date="14-09-16 14:33:29" function="applyDrawing"/>
+    <action date="14-09-16 14:34:50" function="removeDrawing"/>
+    <action date="14-09-16 14:34:59" function="removeDrawing"/>
+    <action date="14-09-16 14:35:49" function="applyDrawing"/>
+    <action date="14-09-16 14:36:04" function="applyDrawing"/>
+    <action date="14-09-16 14:36:31" function="applyDrawing"/>
+    <action date="14-09-16 14:36:40" function="applyDrawing"/>
+    <action date="14-09-16 14:36:51" function="removeDrawing"/>
+    <action date="14-09-16 14:36:59" function="setActivity"/>
+    <action date="14-09-16 14:37:04" function="applyDrawing"/>
+    <action date="14-09-16 14:37:06" function="setActivity"/>
+    <action date="14-09-16 14:38:00" function="applyDrawing"/>
+    <action date="14-09-16 14:38:02" function="setActivity"/>
+    <action date="14-09-16 14:38:07" function="setActivity"/>
+    <action date="14-09-16 14:38:33" function="setActivity"/>
+    <action date="14-09-16 14:38:37" function="applyDrawing"/>
+    <action date="14-09-16 14:38:38" function="setActivity"/>
+    <action date="14-09-16 14:39:41" function="applyDrawing"/>
+  </participant>
+  <participant ID="12" IP="" email="leonardo5425@gmail.com">
+    <email date="14-09-16 13:05:06" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:33:54" function="applyDrawing"/>
+    <action date="14-09-16 14:33:55" function="setActivity"/>
+    <action date="14-09-16 14:37:14" function="removeDrawing"/>
+    <action date="14-09-16 14:37:19" function="removeDrawing"/>
+    <action date="14-09-16 14:37:24" function="removeDrawing"/>
+    <action date="14-09-16 14:37:25" function="removeDrawing"/>
+    <action date="14-09-16 14:37:41" function="removeDrawing"/>
+    <action date="14-09-16 14:37:43" function="removeDrawing"/>
+    <action date="14-09-16 14:37:47" function="removeDrawing"/>
+    <action date="14-09-16 14:37:56" function="removeDrawing"/>
+    <action date="14-09-16 14:37:59" function="removeDrawing"/>
+    <action date="14-09-16 14:38:02" function="removeDrawing"/>
+    <action date="14-09-16 14:38:04" function="removeDrawing"/>
+    <action date="14-09-16 14:38:09" function="removeDrawing"/>
+    <action date="14-09-16 14:38:26" function="removeDrawing"/>
+    <action date="14-09-16 14:38:40" function="removeDrawing"/>
+    <action date="14-09-16 14:38:43" function="applyDrawing"/>
+    <action date="14-09-16 14:38:45" function="setActivity"/>
+    <action date="14-09-16 14:38:52" function="applyDrawing"/>
+    <action date="14-09-16 14:38:53" function="setActivity"/>
+    <action date="14-09-16 14:40:22" function="applyDrawing"/>
+    <action date="14-09-16 14:40:24" function="setActivity"/>
+    <action date="14-09-16 14:40:34" function="applyDrawing"/>
+    <action date="14-09-16 14:40:38" function="setActivity"/>
+  </participant>
+  <participant ID="23" IP="" email="i.h.w.beekmans@student.tue.nl">
+    <email date="14-09-16 13:05:08" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:22:42" function="applyDrawing"/>
+    <action date="14-09-16 14:22:45" function="setActivity"/>
+    <action date="14-09-16 14:23:07" function="applyDrawing"/>
+  </participant>
+  <participant ID="34" IP="" email="j.h.k.smets@student.tue.nl">
+    <email date="14-09-16 13:05:10" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:25:10" function="applyDrawing"/>
+    <action date="14-09-16 14:25:12" function="setActivity"/>
+    <action date="14-09-16 14:25:32" function="applyDrawing"/>
+    <action date="14-09-16 14:25:33" function="setActivity"/>
+    <action date="14-09-16 14:33:38" function="applyDrawing"/>
+    <action date="14-09-16 14:33:45" function="applyDrawing"/>
+    <action date="14-09-16 14:33:54" function="setActivity"/>
+    <action date="14-09-16 14:34:11" function="applyDrawing"/>
+    <action date="14-09-16 14:34:16" function="applyDrawing"/>
+    <action date="14-09-16 14:34:19" function="setActivity"/>
+  </participant>
+  <participant ID="45" IP="" email="matthijs.hoekstra@live.nl">
+    <email date="14-09-16 13:05:12" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:25:48" function="applyDrawing"/>
+    <action date="14-09-16 14:25:51" function="setActivity"/>
+    <action date="14-09-16 14:30:03" function="applyDrawing"/>
+    <action date="14-09-16 14:30:16" function="applyDrawing"/>
+    <action date="14-09-16 14:30:21" function="setActivity"/>
+    <action date="14-09-16 14:30:41" function="applyDrawing"/>
+    <action date="14-09-16 14:31:04" function="applyDrawing"/>
+    <action date="14-09-16 14:31:45" function="applyDrawing"/>
+    <action date="14-09-16 14:32:28" function="applyDrawing"/>
+    <action date="14-09-16 14:32:34" function="setActivity"/>
+    <action date="14-09-16 14:32:38" function="applyDrawing"/>
+    <action date="14-09-16 14:33:18" function="applyDrawing"/>
+    <action date="14-09-16 14:33:21" function="setActivity"/>
+    <action date="14-09-16 14:33:26" function="removeDrawing"/>
+    <action date="14-09-16 14:33:41" function="applyDrawing"/>
+    <action date="14-09-16 14:33:58" function="applyDrawing"/>
+    <action date="14-09-16 14:33:59" function="setActivity"/>
+    <action date="14-09-16 14:34:27" function="applyDrawing"/>
+    <action date="14-09-16 14:34:28" function="setActivity"/>
+    <action date="14-09-16 14:34:42" function="applyDrawing"/>
+    <action date="14-09-16 14:34:51" function="setActivity"/>
+    <action date="14-09-16 14:35:22" function="applyDrawing"/>
+    <action date="14-09-16 14:35:25" function="setActivity"/>
+    <action date="14-09-16 14:35:42" function="applyDrawing"/>
+    <action date="14-09-16 14:35:47" function="setActivity"/>
+    <action date="14-09-16 14:36:00" function="applyDrawing"/>
+    <action date="14-09-16 14:36:02" function="setActivity"/>
+    <action date="14-09-16 14:36:11" function="applyDrawing"/>
+    <action date="14-09-16 14:36:15" function="setActivity"/>
+    <action date="14-09-16 14:36:19" function="applyDrawing"/>
+    <action date="14-09-16 14:36:24" function="setActivity"/>
+    <action date="14-09-16 14:36:49" function="setActivity"/>
+    <action date="14-09-16 14:37:52" function="applyDrawing"/>
+    <action date="14-09-16 14:37:54" function="setActivity"/>
+    <action date="14-09-16 14:39:24" function="setActivity"/>
+    <action date="14-09-16 14:39:29" function="applyDrawing"/>
+    <action date="14-09-16 14:39:30" function="setActivity"/>
+    <action date="14-09-16 14:39:36" function="applyDrawing"/>
+    <action date="14-09-16 14:39:37" function="setActivity"/>
+    <action date="14-09-16 14:39:44" function="applyDrawing"/>
+  </participant>
+  <participant ID="56" IP="" email="919268512@qq.com">
+    <email date="14-09-16 13:05:14" subject="Thank you for participating!"/>
+  </participant>
+  <participant ID="67" IP="" email="jaschnedler@gmail.com">
+    <email date="14-09-16 13:18:24" subject="Thank you for participating!"/>
+  </participant>
+  <participant ID="78" IP="" email="jens.a.soerensen@gmail.com">
+    <email date="14-09-16 13:05:17" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:29:16" function="applyDrawing"/>
+    <action date="14-09-16 14:29:22" function="setActivity"/>
+    <action date="14-09-16 14:30:01" function="applyDrawing"/>
+    <action date="14-09-16 14:30:02" function="setActivity"/>
+  </participant>
+  <participant ID="89" IP="" email="c.u.v.liang@student.tue.nl">
+    <email date="14-09-16 13:05:19" subject="Thank you for participating!"/>
+  </participant>
+  <participant ID="19" IP="" email="y.g.w.v.engelen@student.tue.nl">
+    <email date="14-09-16 13:05:21" subject="Thank you for participating!"/>
+  </participant>
+  <participant ID="28" IP="" email="jellew95@gmail.com">
+    <email date="14-09-16 13:05:23" subject="Thank you for participating!"/>
+  </participant>
+  <participant ID="37" IP="" email="j.gallegos.nieto@student.tue.nl">
+    <email date="14-09-16 13:05:25" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:24:46" function="removeDrawing"/>
+  </participant>
+  <participant ID="46" IP="" email="r.janssen.1@student.tue.nl">
+    <email date="14-09-16 13:05:27" subject="Thank you for participating!"/>
+  </participant>
+  <participant ID="55" IP="" email="basvanstraaten@live.nl">
+    <email date="14-09-16 13:05:29" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:24:40" function="applyDrawing"/>
+    <action date="14-09-16 14:24:51" function="applyDrawing"/>
+    <action date="14-09-16 14:25:11" function="applyDrawing"/>
+    <action date="14-09-16 14:25:13" function="setActivity"/>
+  </participant>
+  <participant ID="64" IP="" email="maxdijken@gmail.com">
+    <email date="14-09-16 13:05:30" subject="Thank you for participating!"/>
+  </participant>
+  <participant ID="73" IP="" email="jaer97@live.nl">
+    <email date="14-09-16 13:05:32" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:22:26" function="applyDrawing"/>
+    <action date="14-09-16 14:22:33" function="setActivity"/>
+    <action date="14-09-16 14:22:55" function="setActivity"/>
+    <action date="14-09-16 14:23:09" function="applyDrawing"/>
+  </participant>
+  <participant ID="82" IP="" email="thomasvanhemert@hotmail.com">
+    <email date="14-09-16 13:05:33" subject="Thank you for participating!"/>
+    <action date="14-09-16 14:30:40" function="applyDrawing"/>
+    <action date="14-09-16 14:31:29" function="applyDrawing"/>
+  </participant>
+  <participant ID="0" IP="192.168.1.51" email="t.c.f.v.d.werff@tue.nl">
+    <action date="14-09-16 11:24:37" function="applyDrawing"/>
+    <action date="14-09-16 11:24:38" function="setActivity"/>
+  </participant>
+  <participant ID="0" IP="192.168.1.90" email="l.d.vries@student.tue.nl"/>
+  <participant ID="55" IP="192.168.1.25" email=""/>
+  <participant ID="0" IP="192.168.1.19" email=""/>
+  <participant ID="0" IP="192.168.1.22" email=""/>
+  <participant ID="45" IP="192.168.1.65" email=""/>
+  <participant ID="37" IP="192.168.1.79" email=""/>
+  <participant ID="78" IP="192.168.1.59" email=""/>
+  <participant ID="34" IP="192.168.1.46" email=""/>
+  <participant ID="82" IP="192.168.1.45" email=""/>
+  <participant ID="0" IP="192.168.1.50" email=""/>
+  <participant ID="45" IP="192.168.1.48" email=""/>
+  <participant ID="12" IP="192.168.1.75" email=""/>
+  <participant ID="34" IP="192.168.1.6" email=""/>
+  <participant ID="12" IP="192.168.1.33" email=""/>
+</participants>

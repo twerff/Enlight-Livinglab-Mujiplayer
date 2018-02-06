@@ -1,0 +1,20 @@
+date,time,event,sender,recipient,function,ID,duration,activity,CT,DimLevel,Number of Areas,Area1,Area2,Area3,Area4,Interaction ID
+14/10/16,08:30:45,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,2815,,5584,55939,4,0,1,3,2,87
+14/10/16,08:30:47,MULI FloorPlan,192.168.1.62,Server,setActivity,0,4961,0,,,4,0,1,3,2,88
+14/10/16,08:32:12,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,9757,,5584,41459,4,0,1,3,2,89
+14/10/16,08:32:13,MULI FloorPlan,192.168.1.62,Server,setActivity,0,11208,0,,,4,0,1,3,2,89
+14/10/16,08:52:57,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,5229,,3736,10131,4,0,1,3,2,90
+14/10/16,08:52:58,MULI FloorPlan,192.168.1.62,Server,setActivity,0,5536,0,,,4,0,1,3,2,90
+14/10/16,08:53:03,MULI FloorPlan,192.168.1.62,Server,setActivity,0,1631,0,,,4,0,1,3,2,90
+14/10/16,08:53:09,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,3082,,4850,19082,4,0,1,3,2,90
+14/10/16,08:53:09,MULI FloorPlan,192.168.1.62,Server,setActivity,0,3270,0,,,4,0,1,3,2,90
+14/10/16,09:06:25,MULI FloorPlan,192.168.1.62,Server,applyDrawing,82,3694,,4850,38827,4,0,1,3,2,91
+14/10/16,17:01:08,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,1341,,,,1,1,,,,92
+14/10/16,17:01:10,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,757,,,,1,1,,,,92
+14/10/16,17:01:13,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,1364,,,,1,1,,,,92
+14/10/16,17:01:23,MULI FloorPlan,192.168.1.62,Server,removeDrawing,0,2754,,,,1,1,,,,93
+14/10/16,17:01:26,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,2212,,1700,61468,1,1,,,,93
+14/10/16,17:01:30,MULI FloorPlan,192.168.1.62,Server,setActivity,0,6184,1,,,1,1,,,,93
+14/10/16,17:10:14,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,8331,,1700,0,1,2,,,,94
+14/10/16,17:10:18,MULI FloorPlan,192.168.1.62,Server,setActivity,0,12658,3,,,1,2,,,,94
+14/10/16,17:11:51,MULI FloorPlan,192.168.1.62,Server,applyDrawing,0,3590,,5811,59625,1,1,,,,95

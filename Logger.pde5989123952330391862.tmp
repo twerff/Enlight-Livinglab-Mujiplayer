@@ -1,0 +1,93 @@
+String filePath = "data/log.csv";
+Table table;
+
+int dag;
+
+void setupLogger()
+{
+  setFilePath();
+  
+  try
+  {
+    table = loadTable(filePath, "header");
+    traceln("Log file loaded");
+  }
+  catch(Exception e)
+  {
+    createNewLog();
+  }
+  
+  log("Server", "", "", "initialized");
+}
+
+void setFilePath()
+{
+  filePath = "data/log " + year();
+  if(month() < 10) filePath += "0";
+  filePath += month();
+  if(day() < 10) filePath += "0";
+  filePath += day() + ".csv";
+  dag = day();
+}
+
+void createNewLog()
+{    
+  table = new Table();
+  table.addColumn("time");
+  table.addColumn("event");
+  table.addColumn("sender");
+  table.addColumn("recipient");
+  table.addColumn("function");
+  
+  for (int i = 0; i< 10; i++)
+  {
+    table.addColumn("value"+i);
+  }
+  
+  traceln("New logfile created");
+}
+void checkDate()
+{
+  if (dag != day())
+  {
+    
+  }
+}
+void log(String event)//, String parent, String address, String event, int... values)
+{
+  log (event, "", "", "", null);
+}
+
+void log(String event, String from, String to, String function)
+{
+  log (event, from, to, function, null);
+}
+
+void log(String event, String from, String to, String function, int... values)
+{
+  checkDate();
+  
+  if (function != null)
+  {
+    function = function.replaceAll("\r","");
+    function = function.replaceAll("\b","");
+    function = function.replaceAll("\n","");
+  }
+  
+  TableRow newRow = table.addRow();
+  newRow.setString("time", getTime());
+  newRow.setString("event", event);
+  newRow.setString("sender", from);
+  newRow.setString("recipient", to);
+  newRow.setString("function", function);
+  
+  if (values != null)
+  {
+    for (int i = 0; i<values.length; i++)
+    {
+      newRow.setInt("value"+i, values[i]);
+    }
+  }
+
+  saveTable(table, filePath);
+}
